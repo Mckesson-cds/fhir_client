@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'activesupport', '>= 3'
   s.add_dependency 'addressable', '>= 2.3'
   s.add_dependency 'nokogiri'
-  s.add_dependency 'rack', '~> 2.0'
+  s.add_dependency 'rack', '~> 1.5'
   s.add_development_dependency 'pry'
   s.add_development_dependency 'minitest'
   s.add_development_dependency 'test-unit'
